@@ -34,4 +34,3 @@ Now, we can combine all the functions. Transform the circuit used in the quantum
 [3] Quantum arithmetic with the Quantum Fourier Transform 
 https://arxiv.org/pdf/1411.5949.pdf
 
-![image](https://github.com/user-attachments/assets/070d9706-be6b-4954-9484-89778ff11122)
